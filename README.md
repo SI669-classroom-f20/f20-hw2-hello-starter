@@ -10,6 +10,7 @@ Follow these steps to get your project ready to work on:
 6. remove the `.git` directory that is created by expo init (`$ rm -rf .git`). Make sure you do this in the `hw2Hello` diretory and NOT in the directory that was cloned from GitHub.
 7. start working on your project
 
+
 You will start with a blank app, and your job is to modify it to look like this:
 <img src="https://github.com/SI669-classroom-f20/f20-hw2-hello-starter/blob/master/helloApp.png?raw=true" width=300/>
 

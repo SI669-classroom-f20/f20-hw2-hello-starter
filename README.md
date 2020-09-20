@@ -11,9 +11,9 @@ Follow these steps to get your project ready to work on:
 7. start working on your project
 
 
-You will start with a blank app, and your job is to modify it to look like this:
+You will start with a blank app, and your job is to modify it to look like this:<br/>
 <img src="https://github.com/SI669-classroom-f20/f20-hw2-hello-starter/blob/master/helloApp.png?raw=true" width=300/>
-
+<br/>
 
 Grading
 Screen background: 25%

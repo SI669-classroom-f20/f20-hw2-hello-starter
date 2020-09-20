@@ -15,7 +15,7 @@ You will start with a blank app, and your job is to modify it to look like this:
 <img src="https://github.com/SI669-classroom-f20/f20-hw2-hello-starter/blob/master/helloApp.png?raw=true" width=300/>
 <br/>
 
-## Grading (up to 120 points)
+### Grading (up to 120 points)
 | No. | Requirement  | Points |
 | --- | ------------- | ------------- |
 | 1 | First text label looks very similar to first label in reference image | 30  |
@@ -83,9 +83,13 @@ const hellos = {
 }
 ```
 
+Please check out the [demo video](https://www.loom.com/share/f0153edb300d4ae0b22611a4379ffe69) to see how this should work.
+
+### Grading
+
 | No. | Requirement  | Points |
 | --- | ------------- | ------------- |
-| X1 | UI for setting the countdown timer value is clear | 1  |
-| X2 | When the timer value is changed and the timer is restarted, the timer starts at the correct value | 1 |
-| X3 | Timer restarts and expiration continue to work properly as in the main part of the assignment | 2 |
+| X1 | Fourth panel displays at least one "Hello" phrase from the provided object | 1  |
+| X2 | Fourth panel receives user input and changes its display in some way when pressed | 1 |
+| X3 | Fourth panel displays a randomly selected "Hello" phrase every time it is pressed | 2 |
 | | **Total** | **4**

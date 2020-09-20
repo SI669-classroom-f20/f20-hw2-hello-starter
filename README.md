@@ -26,7 +26,62 @@ You will start with a blank app, and your job is to modify it to look like this:
 
 
 ## Extra credit (Up to 4 points):
-Add the capability for the user to set the number of seconds to any integer. Refer to the [extra credit demo video](https://www.loom.com/share/6653584da1934a97aec02cdacad70df5) for an example.
+Add an interactive panel that, when you tap it, displays "Hello" in a different language, randomly selected from the values contained in the following JavaScript object:
+
+```
+const hellos = {
+  Arabic: "Marhaba",
+  BavarianAndAustrianGerman: "Grüß Gott",
+  Bengali: "Namaskar",
+  Bulgarian: "Zdraveite",
+  Catalan: "Hola",
+  Chamorro: "Hafa adai",      
+  Chinese: "Nǐ hǎo",
+  Croatian: "Dobar dan",
+  Danish: "God dag",
+  Dutch: "Hallo",
+  Finnish: "hyvää päivää",
+  French: "Bonjour",
+  Gaeilge: "Dia dhuit",
+  German: "Guten tag",
+  Greek: "Yasou",
+  Hebrew: "Shalom",
+  Hindi: "Namaste",
+  Hungarian: "Jo napot",
+  Icelandic: "Góðan dag",
+  Igbo: "Nde-ewo",
+  Indonesian: "Selamat siang",
+  Italian: "Salve",
+  Japanese: "Konnichiwa",
+  Korean: "Ahn nyong ha se yo",
+  Latin: "Salve",
+  Lithuanian:  "Sveiki",
+  Luxembourgish: "Moïen",
+  Maltese: "Bonġu",
+  Nahuatl: "Niltze",
+  Nepali: "Namastē",
+  Norwegian: "Hallo",
+  Persian: "Salam",
+  Polish: "Cześć",
+  Portuguese: "Olá",
+  Romanian: "Bună ziua",
+  Russian: "Zdravstvuyte",
+  Serbian: "Zdravo",
+  Slovak: "Ahoj",
+  Spanish: "Hola",
+  Swahili: "Hujambo",
+  Swedish: "Hallå",
+  Tahitian: "Ia orna",
+  Thai: "Sawasdee",
+  Tsonga: "Avuxeni",
+  Turkish: "Merhaba",
+  Ukrainian: "Zdravstvuyte",
+  Urdu: "Assalamo aleikum",                                
+  Vietnamese: "xin chào",
+  Welsh: "Shwmae",
+  Zulu: "Sawubona" 
+}
+```
 
 | No. | Requirement  | Points |
 | --- | ------------- | ------------- |
